@@ -1,0 +1,4 @@
+[submodule "upstream"]
+	path = upstream
+	url = https://git.ffmpeg.org/ffmpeg.git
+	branch = release/3.4
